@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenCV</string>
+    <string name="openCV_demo">OpenCV Camera</string>
+    <string name="n_90_degree">90</string>
+    <string name="n_180_degree">180</string>
+    <string name="n_270_degree">270</string>
+    <string name="n_0_degree">0</string>
+</resources>
